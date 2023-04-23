@@ -1,5 +1,4 @@
 # This is a sample Python script.
-from AverageCoord import AverageCoord
 
 from AnimalInfo import AnimalInfo
 
